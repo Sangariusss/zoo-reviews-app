@@ -1,1 +1,3 @@
-Username:John Doe
+User: John Doe
+Service/Product: Lion Encounter
+Comment: Awesome experience!
